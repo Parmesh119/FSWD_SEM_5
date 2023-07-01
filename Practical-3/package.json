@@ -1,0 +1,14 @@
+{
+  "name": "practical-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Task-3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parmesh Bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
