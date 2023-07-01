@@ -1,0 +1,1 @@
+In the scope the variable access is very easy but outside of the function, the variable access is not allowed because it only has scope limited to that block.
